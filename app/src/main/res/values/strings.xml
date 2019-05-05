@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsMvp</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+</resources>
